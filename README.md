@@ -11,7 +11,17 @@ The project focuses on **component-driven development and UI architecture**.
 - SCSS
 - Storybook
 
-## Getting Started
+## Features
+
+-Component-driven UI development
+
+-Reusable UI components
+
+-Storybook for isolated component development
+
+-Modular SCSS styling
+
+-Type-safe development with TypeScript
 
 ### Install dependencies
 
