@@ -1,0 +1,12 @@
+@use "../settings" as *;
+
+html {
+  font-size: 100%;
+}
+
+body {
+  font-family: $raleway;
+  color: $dark;
+  line-height: 1.33333;
+  margin: 0;
+}

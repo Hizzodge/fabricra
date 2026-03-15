@@ -1,0 +1,44 @@
+/*=============================================
+=                  Colors                     =
+=============================================*/
+
+/* Brand Colors */
+$green: #5ece7b;
+$green-light: #9ee2b0;
+
+$dark: #1d1f22;
+$dark-light: #737680;
+
+/* Neutral Colors */
+
+$gray: #a3a5ad;
+$gray-light: #bebfc4;
+
+$white: #fff;
+$white-dark: #f1f2f3;
+
+/* Utility colors */
+
+$red: #d12727;
+$red-light: #f8dedf;
+
+$blue: #0468db;
+$blue-light: #b4d2f4;
+
+/* Body colors */
+
+$body-text-color: var(--ds-body-text-color, $dark) !default;
+
+$body-background-color: var(--ds-body-background-color, $white) !default;
+
+/* button colors  */
+
+$button-primary-color: var(--ds-button-primary-color, $white) !default;
+$button-primary-background-color: var(
+  --ds-button-primary-background-color,
+  $green
+) !default;
+$btn-primary-background-hover: var(
+  --ds-btn-primary-bg-hover,
+  $green-light
+) !default;
